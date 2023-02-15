@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+#datos{
+    width: 20%;
+    margin-left: 200px;
+}
+#informacion{
+    width: 80%;
+    margin-right: 100px;
+}
+
+main{
+ display: flex;
+}
+
+#contenido{
+    width: 70%;
+    height: 500px;
+    
+}
+
+
+#articulo{
+    
+    display: flex;
+    
+    
+}
+
+#columna1{
+    margin-right: 50px;
+    
+}
+
+#columna2{
+    margin-right: 50px;
+}
+
+#columna3{
+    margin-right: 50px;
+}
